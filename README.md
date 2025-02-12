@@ -1,1 +1,2 @@
 # ML-Project1
+This repository is dedicated to learning and implementing real-time projects using the OpenCV library. It covers fundamental to advanced concepts, helping developers, students, and AI enthusiasts build practical computer vision applications. The projects focus on real-time image processing, object detection, face recognition, motion tracking, and more, leveraging Python and OpenCV's powerful capabilities.
